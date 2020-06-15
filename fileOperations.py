@@ -5,13 +5,12 @@
 
 # File input/output/conversion/storing operations
 
+import os
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
-import os
-import numpy as np
+
 import cv2
-import tifffile as tiff
 
 
 class FileOperations:
